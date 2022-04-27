@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GIS research space"
+title                    : "GIS Research Space"
 title_separator          : "-"
 name                     : &name "Yang Zhong"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yang Zhong"
   avatar           : "profile.png"
-  bio              : "full stack developer and giser"
+  bio              : "I'm a full stack developer and giser"
   location         : "Greater Los Angeles Area"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -265,7 +265,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-leaflet
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

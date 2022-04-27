@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Super Giser Research Space"
+title: "GIS Research Space"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
