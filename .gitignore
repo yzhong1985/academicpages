@@ -1,2 +1,7 @@
 _site/
 
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/supergiser-space/config/applicationhost.config
+.vs/supergiser-space/v17/.suo
+.vs/VSWorkspaceState.json
